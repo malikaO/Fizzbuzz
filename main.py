@@ -4,9 +4,9 @@ for x in xrange(1, 200):
     buzz = not x % 5
  
     if fizz and buzz :
-        print "FizzBuzz"
+        print "Hello word"
     elif fizz:
-        print "Fizz"
+        print "fizz"
     elif buzz:
         print "Buzz"
     else:
